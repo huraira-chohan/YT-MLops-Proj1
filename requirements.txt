@@ -1,0 +1,22 @@
+ipykernel
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+scikit-learn
+pymongo
+from_root
+dill
+certifi
+PyYAML
+boto3
+mypy-boto3-s3
+botocore
+fastapi
+python-multipart
+uvicorn
+jinja2
+imblearn
+-e .    # Goes to setup.py, finds setup() and installs the components of req.txt into the virtual env.
+        # Also goes to pyproject.toml , toml also prevents dangerous errors by configuring details properly.
