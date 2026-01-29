@@ -157,3 +157,6 @@ Connection String :
 
 mongodb+srv://Huraira_Chohan_db_user:huraira7015@cluster0.litukby.mongodb.net/?appName=Cluster0
 
+
+ECR NAME : vehicleproj
+ECR : 571944666768.dkr.ecr.us-east-1.amazonaws.com/vehicleproj
